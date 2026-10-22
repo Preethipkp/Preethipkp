@@ -18,17 +18,21 @@ I am an aspiring AI/ML Developer and Data Analyst with an interest in building p
 
 ## 🚀 Projects
 
-### SaaS Customer Churn Prediction
-Machine learning project focused on predicting customer churn and understanding factors associated with customer retention.
 
-### Brain Tumor Classification
-Deep learning image classification project for identifying different brain tumor categories from MRI images.
+### 1. Brain Tumor Classification — Deep Learning
+Classifies brain MRI images into four categories using a pretrained MobileNetV2 CNN and transfer learning.
 
-### Computer Vision Projects
-Projects involving image processing, face detection, hand tracking, and other computer vision applications.
+[View Project Notebook](https://github.com/Preethipkp/ML-Portfolio/blob/main/Brain-Tumor-Classification/brain_tumor.ipynb) | [Project Documentation](https://github.com/Preethipkp/ML-Portfolio/tree/main/Brain-Tumor-Classification)
 
-### NLP & LSTM Projects
-Projects exploring Natural Language Processing and LSTM-based deep learning models.
+### 2. SaaS Customer Churn Prediction — Machine Learning
+A machine learning project focused on predicting customer churn using SaaS customer data.
+
+[View Project](https://github.com/Preethipkp/saas-customer-churn-prediction)
+
+### 3. Employee Data Analysis — SQL
+Analyzes employee data using SQL queries, including filtering, sorting, aggregation, and department-level analysis.
+
+[View Project](https://github.com/Preethipkp/employee-data-analysis-sql)
 
 ## 📚 Currently Learning
 
